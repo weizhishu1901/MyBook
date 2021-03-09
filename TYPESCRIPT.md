@@ -1,0 +1,3 @@
+# typecript
+
+typecript简介
